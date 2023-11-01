@@ -1,0 +1,5 @@
+This folder include data files for Fig. 2C
+
+In the subfolder /N3000, /N10000, /N30000, each file is used for plot a data line in Fig. 2C for N=3000, 10000, 30000.
+
+And data for the inset of Fig. 2C are shown in  Fig2C_Inset.dat

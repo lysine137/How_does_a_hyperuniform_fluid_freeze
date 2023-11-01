@@ -1,0 +1,16 @@
+This folder include data files for Fig. 3b
+
+File list:
+
+gr_MetastableHUFluid.dat
+gr_t_11633.dat
+gr_t_11646.dat
+gr_t_11648.dat
+gr_t_11653.dat
+gr_t_11658.dat
+gr_t_11663.dat
+gr_t_11668.dat
+gr_t_11673.dat
+gr_t_11703.dat
+
+These above data files are used to plot data lines for radial distribution function g(r) at different times

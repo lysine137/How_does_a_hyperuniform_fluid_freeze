@@ -1,0 +1,11 @@
+This folder include data files for Fig. 1C
+
+File list:
+
+rho_0_2.dat
+rho_0_25.dat
+rho_0_275.dat
+rho_0_35.dat
+rho_0_4.dat 
+
+Each above data file is used for plot a data line at \rho=0.2, 0.25, 0.275, 0.35, 0.4
